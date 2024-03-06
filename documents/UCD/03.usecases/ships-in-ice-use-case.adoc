@@ -16,14 +16,15 @@ a| Jakob Buenger
 |Goal
 a| Provide navigation-relevant, high temporal and spatial resolution sea ice information products to ice going ships. The data needs to be delivered in an easy-to-use user-friendly way which provides interpretation help and allows for easy decision-making even without expert sea ice knowledge. Due to the dynamic nature of moving sea ice, forecasts of the variable conditions are oftentimes mission-critical as well. 
 Account for user-specific ice information needs:
-* Research ship data support: 
+
+* Research ship data support:
 - for long transits (strategic planning)
-- very short term tactical navigation to fulfill research goals 
+- very short term tactical navigation to fulfill research goals
 - high update frequency
-* Expedition Cruise ship data support: 
+* Expedition Cruise ship data support:
 - for long transits
 - tactical planning
-- data handling as easy as possible 
+- data handling as easy as possible
   (crews with limited scientific background)
 
 |Actors
