@@ -19,3 +19,30 @@ Use case: Baltic Sea icebreaker management.
 Goal: Provide sea ice information for the Baltic Sea icebreaker management by Finnish Transport Infrastructure Agency (FTIA).
 The needed sea ice information includes ice movement observations using both buoys and radars as well as forecasts of 
 sea-ice movement and compression, and volume and deformation characteristics of sea ice.
+
+Actors: 
+Finnish Meteorological Institute
+Finnish Transport Infrastructure Agency
+DESIDE software development experts
+DESIDE service development expert
+
+Preconditions:
+The following data sets need to be available via the DESP platform:
+SAR based ice drift and forecasted ice drift from Copernicus Marine Service (CMS).
+Sea ice thickness, SAR and icechart based and forecasted, from CMS
+
+Postconditions:
+Combined dataset of sea ice information based on satellite observations and model simulations.
+Validate sea ice data based on ship data/feedback.
+Include datasets into the various DESIDE platforms e.g. PolarTEP.
+
+Normal flow:
+Provide FTIA with access to a selected DESIDE platform.
+Collect and analyze feedback on the data usability, accuracy, etc.
+
+Notes and issues:
+
+
+
+
+
