@@ -13,3 +13,9 @@ The FTIA and SMA have jointly developed an icebreaker management and information
 weather data it utilized by winter navigation authorities, icebreakers, and other winter navigation operators. 
 Any services that can be used via the IBNet-system, would provide the most added value to us. Ilmanet is also
 a valuable resource to us.
+-----------------------
+
+Use case: Baltic Sea icebreaker management.
+Goal: Provide sea ice information for the Baltic Sea icebreaker management by Finnish Transport Infrastructure Agency (FTIA).
+The needed sea ice information includes ice movement observations using both buoys and radars as well as forecasts of 
+sea-ice movement and compression, and volume and deformation characteristics of sea ice.
