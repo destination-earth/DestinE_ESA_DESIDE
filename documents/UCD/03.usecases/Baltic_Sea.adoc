@@ -1,1 +1,63 @@
+## Baltic Sea
+
+[[amapusecase]]
+.Use Case description for the Baltic Sea.
+[cols=">1h,4"]
+|===
+|Name
+| Baltic Sea icebreaker management.
+
+|Last updated
+a| 2024-08-03
+
+|Last updated by
+a| Marko Mäkynen
+
+|Goal
+a| 
+Provide sea ice information for the Baltic Sea icebreaker management by Finnish Transport Infrastructure Agency (FTIA). The needed sea ice information includes ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression, and volume and deformation characteristics of sea ice.
+
+|Actors
+a| 
+* Finnish Meteorological Institute
+* Finnish Transport Infrastructure Agency
+* DESIDE software development experts
+* DESIDE service development expert
+
+|Pre-conditions
+a|
+The following data sets need to be available via the DESP platform:
+SAR based ice drift and forecasted ice drift from Copernicus Marine Service (CMS).
+Sea ice thickness, SAR and icechart based and forecasted, from CMS
+
+|Post-conditions
+a| 
+Combined dataset of sea ice information based on satellite observations and model simulations.
+Validate sea ice data based on ship data/feedback.
+Include datasets into the various DESIDE platforms e.g. PolarTEP.
+
+|Normal flow
+a| 
+1. Provide FTIA with access to a selected DESIDE platform.
+2. Collect and analyze feedback on the data usability, accuracy, etc.
+
+|Notes and issues
+a| 
+|===
+
+The Finnish Transport Infrastructure Agency (FTIA) has the responsibility of arranging icebreaking services 
+to Finnish winter ports. The agency procures icebreaking services from service providers. Furthermore, FTIA sets 
+assistance restrictions to Finnish ports and coordinates the use of icebreaking resources. FTIA acts in 
+close coordination with the Swedish Maritime Administration (SMA) regarding icebreaking in the Gulf of Bothnia.
+
+Currently FTIA uses FMI's ice charts and forecasts as well as the HELMI SEA-ice model as well as the satellite and 
+ice radar images. From our viewpoint the most interesting developments to products would be a better coverage 
+for ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression. 
+In addition, information concerning the volume and deformation characteristics of sea ice, if possible divided by
+the sea area, are important to us.
+
+The FTIA and SMA have jointly developed an icebreaker management and information sharing system where ice and 
+weather data it utilized by winter navigation authorities, icebreakers, and other winter navigation operators. 
+Any services that can be used via the IBNet-system, would provide the most added value to us. Ilmanet is also
+a valuable resource to us.
 
