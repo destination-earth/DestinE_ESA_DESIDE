@@ -54,10 +54,10 @@ Currently FTIA uses FMI's ice charts and forecasts as well as the HELMI SEA-ice 
 ice radar images. From our viewpoint the most interesting developments to products would be a better coverage 
 for ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression. 
 In addition, information concerning the volume and deformation characteristics of sea ice, if possible divided by
-the sea area, are important to us.
+the sea area, are important.
 
 The FTIA and SMA have jointly developed an icebreaker management and information sharing system where ice and 
 weather data it utilized by winter navigation authorities, icebreakers, and other winter navigation operators. 
-Any services that can be used via the IBNet-system, would provide the most added value to us. Ilmanet is also
-a valuable resource to us.
+Any services that can be used via the IBNet-system, would provide the most added value to FTIA. Ilmanet is also
+a valuable resource.
 
