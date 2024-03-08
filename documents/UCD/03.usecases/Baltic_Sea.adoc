@@ -32,7 +32,7 @@ Sea ice thickness, SAR and icechart based and forecasted, from CMS
 
 |Post-conditions
 a| 
-Combined dataset of sea ice information based on satellite observations and model simulations.
+Combined dataset of sea ice information based on satellite observations and model simulations available.
 Validate sea ice data based on ship data/feedback.
 Include datasets into the various DESIDE platforms e.g. PolarTEP.
 
