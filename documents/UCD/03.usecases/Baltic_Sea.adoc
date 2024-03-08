@@ -8,7 +8,7 @@
 | Baltic Sea icebreaker management.
 
 |Last updated
-a| 2024-08-03
+a| 2024-03-08
 
 |Last updated by
 a| Marko Mäkynen
