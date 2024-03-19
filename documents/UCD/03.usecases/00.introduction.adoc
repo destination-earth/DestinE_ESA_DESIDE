@@ -7,3 +7,7 @@ Use cases are described in a programatically approach focusing on input and outp
 The main focus is on the stakeholder usage and requirements.
 
 include::climate-perspective.adoc[]
+
+include::Baltic_Sea.adoc[]
+
+include::ships-in-ice-use-case.adoc[]
