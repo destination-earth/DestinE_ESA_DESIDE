@@ -1,6 +1,6 @@
 ## Ships in ice
 
-[[amapusecase]]
+[[shipsiniceusecase]]
 .Use Case description for AWI, Ponant and others.
 [cols=">1h,4"]
 |===

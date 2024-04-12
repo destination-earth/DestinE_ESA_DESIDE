@@ -1,6 +1,6 @@
 ## Baltic Sea
 
-[[amapusecase]]
+[[balticseaiceusecase]]
 .Use Case description for the Baltic Sea.
 [cols=">1h,4"]
 |===
