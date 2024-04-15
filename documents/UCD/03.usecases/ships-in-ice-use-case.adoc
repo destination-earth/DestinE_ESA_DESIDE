@@ -8,7 +8,7 @@
 | Use case: Ships in ice
 
 |Last updated
-a| 2024-04-04
+a| 2024-04-15
 
 |Last updated by
 a| Jakob Buenger
