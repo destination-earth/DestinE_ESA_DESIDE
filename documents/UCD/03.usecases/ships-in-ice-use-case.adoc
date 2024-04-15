@@ -37,6 +37,7 @@ a|
 
 |Pre-conditions
 a| The following data sets need to be available via the DESP platform:
+
 * RADARSAT Constellation Mission (RCM) SAR imagery (https://www.eodms-sgdot.nrcan-rncan.gc.ca/)
 * Sentinel-1 (ESA) SAR imagery (https://browser.dataspace.copernicus.eu/)
 * Sea ice drift forecast data (TOPAZ5, neXtSIM)(https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_002_001/description and https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_ICE_002_011/description)
