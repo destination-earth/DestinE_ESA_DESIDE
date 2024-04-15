@@ -8,7 +8,7 @@
 | Use case: Ships in ice
 
 |Last updated
-a| 2024-03-05
+a| 2024-04-04
 
 |Last updated by
 a| Jakob Buenger
@@ -37,11 +37,15 @@ a|
 
 |Pre-conditions
 a| The following data sets need to be available via the DESP platform:
-- RADARSAT Constellation Mission (RCM) SAR imagery
-- Sentinel-1 (ESA) SAR imagery
-- Sea ice drift forecast data (TOPAZ5, neXtSIM)
-- ICON wind forecast data 
-- Sea ice charts from all the national ice services
+* RADARSAT Constellation Mission (RCM) SAR imagery (https://www.eodms-sgdot.nrcan-rncan.gc.ca/)
+* Sentinel-1 (ESA) SAR imagery (https://browser.dataspace.copernicus.eu/)
+* Sea ice drift forecast data (TOPAZ5, neXtSIM)(https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_002_001/description and https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_ICE_002_011/description)
+* ICON wind forecast data (https://opendata.dwd.de/weather/nwp/icon/grib/)
+* Sea ice charts from all the national ice services:
+. DMI: https://download.dmi.dk/public/ICESERVICE/
+. US NIC: https://usicecenter.gov/Products
+. AARI (not sure about this one): http://ice.aari.aq
+. Norway (we only have access to the newest zip file): https://cryo.met.no/sites/cryo/files/latest/NIS_arctic_latest_pl_a.zip 
 
 
 |Post-conditions
@@ -50,6 +54,7 @@ a|
 . Create intermediate data sets (drift forecast trajectories) 
 . Validate morphed images based on ship data/feedback
 . Include above-mentioned data set into the various DESIDE platforms e.g. PolarTEP
+. Include RCM and ice charts in IcySea
 
 
 |Normal flow
@@ -61,7 +66,7 @@ a|
 
 |Notes and issues
 a| 
-* Implementation into IcySea (contract issue)
+* Implementation into IcySea (contract issue), IcySea code won't be shared
 * Define areas of interest:
 - AWI: Arctic-wide
 - Ponant: special interest in data for the journey to the North Pole
