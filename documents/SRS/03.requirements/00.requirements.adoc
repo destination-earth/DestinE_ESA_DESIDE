@@ -7,17 +7,17 @@ This chapter lists the software requirements with a requirements matrix and refe
 |===
 | Doc | Reference | Section | Title | Short Description | Compliance
 
-|SOW
-|TBD
-|TBD
-|TBD
-|TBD
-|C/N/P
+|UCD
+|REQ01
+|3.2.
+|Interactive dashboard
+|DESIDE shall provide an online dashboard allowing users to interactively play with the processed integrated and combined dataset for the various covered regions and projections. Within the interactive dashboard users shall be able to compare historical sea ice indicators with future projections in order to establish a trust in future projections based on historical performance.
+|P first data is integrated in the Polar dashboard and can be visualized and analyzed.
 
-|SOW
-|TBD
-|TBD
-|TBD
-|TBD
-|C/N/P
+|UCD
+|REQ02
+|3.3. & 3.4.
+|Data access
+|Access to sea ice data including ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression, and volume and deformation characteristics of sea ice shall be demonstrated and provided.
+|P a first draft Jupyter notebook showing data access is available. More data needs to be made accessible and access demonstrated in the notebook.
 |===
