@@ -25,6 +25,6 @@ This chapter lists the software requirements with a requirements matrix and refe
 |REQ03
 |3.4.
 |Data transfer between IcySea and Polar TEP
-|Possibility to exchange and send data between Polar TEP and IcySea application for display and analysis in both platforms.
-|In development
+|The exchanging and sending of data between Polar TEP and IcySea application for display and analysis in both platforms shall be supported.
+|P, in development
 |===
