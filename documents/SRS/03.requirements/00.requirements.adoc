@@ -20,4 +20,11 @@ This chapter lists the software requirements with a requirements matrix and refe
 |Data access
 |Access to sea ice data including ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression, and volume and deformation characteristics of sea ice shall be demonstrated and provided.
 |P a first draft Jupyter notebook showing data access is available. More data needs to be made accessible and access demonstrated in the notebook.
+
+|UCD
+|REQ03
+|3.4.
+|Data transfer between IcySea and Polar TEP
+|Possibility to exchange and send data between Polar TEP and IcySea application for display and analysis in both platforms.
+|In development
 |===

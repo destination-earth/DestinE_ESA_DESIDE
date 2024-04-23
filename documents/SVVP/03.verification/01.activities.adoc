@@ -1,6 +1,30 @@
 = Verification activities
 
+
 This section outlines the verification activities for key DESIDE components.
 
-== TBD
+[options="header"]
+|=======================
+|Requirements|System Requirement ID     |Description |Verification method
+
+
+|Interactive dashboard
+|REQ01
+|Data relevant for the Use Cases are available in online Polar Dashboard
+|Demonstration
+
+|Data access through Polar TEP
+|REQ02
+|Data relevant for the Use Cases are available through Polar TEP Interactive development environment
+|Demonstration
+
+|Connection between IcySea and Polar TEP
+|REQ03
+|Ensuring data transfer and connection between IcySea and Polar TEP
+|Testing
+
+
+|=======================
+
+== To be extended
 

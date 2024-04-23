@@ -1,0 +1,20 @@
+= Results of verification activities
+
+This section describe results of testing activities described in Software Verification and Validation Plan (SVVP).
+
+== Interactive Dashboard
+
+Demonstration of added datasets into the interactive online dashboard
+
+.sea_ice_area_fraction
+image::../images/sea_ice_area_fraction.png[]
+
+.surface_snow_thicknes
+image::../images/surface_snow_thicknes.png[]
+
+== Data Access
+
+Demonstration of possibility to access CMEMS dataset from Destination Earth Data Lake. Attached Jupyter notebook in PDF form is showing possibility to access, download and visualize the data in Polar TEP IDE.
+
+:pdf-attachment: ../images/hda_pystac_client.pdf
+
