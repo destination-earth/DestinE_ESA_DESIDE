@@ -18,14 +18,3 @@ The rationale behind this approach is to ensure that each component of the softw
 
 include::01.activities.adoc[leveloffset=+1]
 
-include::02.criteria.adoc[leveloffset=+1]
-
-include::03.resources.adoc[leveloffset=+1]
-
-include::04.change.adoc[leveloffset=+1]
-
-include::05.schedule.adoc[leveloffset=+1]
-
-include::06.code.adoc[leveloffset=+1]
-
-include::07.performance.adoc[leveloffset=+1]
