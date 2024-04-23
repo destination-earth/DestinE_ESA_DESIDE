@@ -32,7 +32,8 @@ This chapter lists the software requirements with a requirements matrix and refe
 |REQ04
 |3.2.
 |Available DESP Data 
-|The interactive dashboard and notebook shall provide access to the following data served from DESP:
+a|The interactive dashboard and notebook shall provide access to the following data served from DESP:
+
 * TOPAZ4b - Arctic Ocean Physics Reanalysis
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 * All data referenced in the "Pre-conditions" row of the table in 3.2. of the UCD.
@@ -43,7 +44,8 @@ Note: The availability of this data on DESP is a precondition.
 |REQ05
 |3.2.
 |Available Data
-|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
+a|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
+
 * TOPAZ4b - Arctic Ocean Physics Reanalysis
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 |C
@@ -52,7 +54,8 @@ Note: The availability of this data on DESP is a precondition.
 |REQ06
 |3.3.
 |Available DESP Data 
-|The interactive dashboard and notebook shall provide access to the following data served from DESP:
+a|The interactive dashboard and notebook shall provide access to the following data served from DESP:
+
 * TOPAZ4b - Arctic Ocean Physics Reanalysis
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 * All data referenced in the "Pre-conditions" row of the table in 3.3. of the UCD.
@@ -63,7 +66,8 @@ Note: The availability of this data on DESP is a precondition.
 |REQ07
 |3.3.
 |Available Data
-|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
+a|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
+
 * TOPAZ4b - Arctic Ocean Physics Reanalysis
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 |C
@@ -72,7 +76,8 @@ Note: The availability of this data on DESP is a precondition.
 |REQ08
 |3.4.
 |Available DESP Data 
-|The interactive dashboard and notebook shall provide access to the following data served from DESP:
+a|The interactive dashboard and notebook shall provide access to the following data served from DESP:
+
 * TOPAZ4b - Arctic Ocean Physics Reanalysis
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 * All data referenced in the "Pre-conditions" row of the table in 3.4. of the UCD.
@@ -83,7 +88,8 @@ Note: The availability of this data on DESP is a precondition.
 |REQ09
 |3.4.
 |Available Data
-|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
+a|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
+
 * TOPAZ4b - Arctic Ocean Physics Reanalysis
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 |C
