@@ -18,3 +18,4 @@ The rationale behind this approach is to ensure that each component of the softw
 
 include::01.activities.adoc[leveloffset=+1]
 
+include::02.criteria.adoc[leveloffset=+1]
