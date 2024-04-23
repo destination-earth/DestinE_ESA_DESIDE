@@ -8,8 +8,8 @@
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Software Verification and Validation Report
 :doc-num: D-XXX
-:revnumber: 0.1
-:revdate: 18/04/2024
+:revnumber: 0.2
+:revdate: 22/04/2024
 // :revremark:
 :category:
 :copyrightYear: 2024
