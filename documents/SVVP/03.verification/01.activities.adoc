@@ -26,7 +26,7 @@ This section outlines the verification activities for key DESIDE components.
 |The available DESP data is accessible via the provided Jupyter notebook.
 |Demonstration
 
-|DESP Data 
+|Available Data 
 |REQ05
 |The available fallback data is accessible via the provided Jupyter notebook.
 |Demonstration
@@ -36,7 +36,7 @@ This section outlines the verification activities for key DESIDE components.
 |The available DESP data is accessible via the provided Jupyter notebook.
 |Demonstration
 
-|DESP Data 
+|Available Data 
 |REQ07
 |The available fallback data is accessible via the provided Jupyter notebook.
 |Demonstration
@@ -46,7 +46,7 @@ This section outlines the verification activities for key DESIDE components.
 |The available DESP data is accessible via the provided Jupyter notebook.
 |Demonstration
 
-|DESP Data 
+|Available Data 
 |REQ09
 |The available fallback data is accessible via the provided Jupyter notebook.
 |Demonstration
