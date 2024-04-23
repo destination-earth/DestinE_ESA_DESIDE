@@ -2,5 +2,52 @@
 
 This section outlines the verification activities for key DESIDE components.
 
-== TBD
+[options="header"]
+|=======================
+|Requirement |System Requirement ID |Description |Verification method
 
+|Interactive dashboard
+|REQ01
+|Data relevant for the Use Cases are available in online Polar Dashboard
+|Demonstration
+
+|Data access
+|REQ02
+|Data relevant for the Use Cases are available through Polar TEP Interactive development environment
+|Demonstration
+
+|Connection between IcySea and Polar TEP
+|REQ03
+|Ensuring data transfer and connection between IcySea and Polar TEP
+|Testing
+
+|Available DESP Data
+|REQ04
+|The available DESP data is accessible via the provided Jupyter notebook.
+|Demonstration
+
+|Available Data 
+|REQ05
+|The available fallback data is accessible via the provided Jupyter notebook.
+|Demonstration
+
+|Available DESP Data
+|REQ06
+|The available DESP data is accessible via the provided Jupyter notebook.
+|Demonstration
+
+|Available Data 
+|REQ07
+|The available fallback data is accessible via the provided Jupyter notebook.
+|Demonstration
+
+|Available DESP Data
+|REQ08
+|The available DESP data is accessible via the provided Jupyter notebook.
+|Demonstration
+
+|Available Data 
+|REQ09
+|The available fallback data is accessible via the provided Jupyter notebook.
+|Demonstration
+|=======================
