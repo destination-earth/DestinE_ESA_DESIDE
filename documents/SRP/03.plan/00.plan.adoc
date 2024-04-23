@@ -3,7 +3,7 @@
 
 [cols="1,1,1,1"]
 |===
-| Compotent | Version | Release Date | Comment 
+| Component | Version | Release Date | Comment 
 
 |Dashboard
 |1.0.0.
