@@ -18,3 +18,14 @@ Demonstration of possibility to access CMEMS dataset from Destination Earth Data
 
 :pdf-attachment: ../images/hda_pystac_client.pdf
 
+== Data transfer between IcySea and Polar TEP
+
+In implementation
+
+== Available DESP Data 
+
+Waiting for data to be available on DESP.
+
+== Available Data 
+
+See Data Access above.
