@@ -1,4 +1,13 @@
 [[ReleasePlan]]
 = Release Plan
 
-TBD
+[cols="1,1,1,1"]
+|===
+| Compotent | Version | Release Date | Comment 
+
+|Dashboard
+|1.0.0.
+|24. 4. 2024
+|
+
+|===
