@@ -1,0 +1,17 @@
+
+= Introduction
+
+== Purpose and Scope
+
+This document represents the Use Case Application Software (UCAS) for the {project-name} project 8482 with ESA contract 4000140320/23/I-NS.
+
+== Structure of the Document
+
+<<mainOverview>>::
+This section provides an overview of the {project-name}.
+
+include::03.reference-docs.adoc[leveloffset=+1]
+
+include::04.terminology.adoc[leveloffset=+1]
+
+include::05.glossary.adoc[leveloffset=+1]

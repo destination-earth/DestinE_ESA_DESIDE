@@ -23,7 +23,7 @@ echo '<!DOCTYPE html>
       <ul>' >> output/index.html
 
 
-DOCS="${BUILD_DOCS:-PMP UCD SRS SVVP SVVR SRP SRF UCPP}"
+DOCS="${BUILD_DOCS:-PMP UCD SRS SVVP SVVR SRP SRF UCPP UCAS}"
 
 for doc in $DOCS ; do
   echo "Building $doc"
