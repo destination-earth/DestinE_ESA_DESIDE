@@ -6,8 +6,12 @@
 | Component | Version | Release Date | Comment 
 
 |Dashboard
-|1.0.0.
+|1.0.0
 |24. 4. 2024
-|
+|First major release of the interactive online dashboard providing access to the TOPAZ4b - Arctic Ocean Physics Reanalysis and the TOPAZ5 - Arctic Ocean Physics Analysis And Forecast data.
 
+|Jupyter Notebook
+|0.0.1
+|23. 4. 2024
+|Interactive Jupyter notebook demonstrating data access from DESP.
 |===
