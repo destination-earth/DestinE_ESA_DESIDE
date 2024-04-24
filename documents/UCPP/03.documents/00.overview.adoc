@@ -1,6 +1,6 @@
 = Use Case Promotion Package
 
-This section show case documents for Use Case Promotion Package
+This section contains the documents in the Use Case Promotion Package
 
 
 :poster-attachment: ../images/DESIDE_Poster.pdf
