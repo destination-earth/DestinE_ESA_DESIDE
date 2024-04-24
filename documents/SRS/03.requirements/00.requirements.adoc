@@ -99,4 +99,4 @@ a|The interactive dashboard and notebook shall still provide access to the follo
 
 
 .DESIDE diagram
-image::../images/deside_diagram.jpg[]
+image::../images/DESIDE_diagram.jpg[]
