@@ -94,3 +94,9 @@ a|The interactive dashboard and notebook shall still provide access to the follo
 * TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
 |C
 |===
+
+== DESIDE project diagram
+
+
+.DESIDE diagram
+image::../images/deside_diagram.jpg[]
