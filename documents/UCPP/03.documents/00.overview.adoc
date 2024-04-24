@@ -11,6 +11,7 @@ link:{poster-attachment}[Download Poster]
 link:{slides-attachment}[Download Slides]
 
 
-
+:description-attachment: ../images/DestinE_Use_Case_DESIDE
+link:{description-attachment}[Download Description]
 
 
