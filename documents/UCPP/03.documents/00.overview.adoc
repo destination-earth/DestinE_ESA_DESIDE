@@ -2,16 +2,14 @@
 
 This section contains the documents in the Use Case Promotion Package
 
-
 :poster-attachment: ../images/DESIDE_Poster.pdf
 link:{poster-attachment}[Download Poster]
-
 
 :slides-attachment: ../images/DESIDE_Slides_2.pptx
 link:{slides-attachment}[Download Slides]
 
-
 :description-attachment: ../images/DestinE_Use_Case_DESIDE.docx
 link:{description-attachment}[Download Description]
 
-
+:website-attachment: https://deside.polarview.org/
+link: {website-attachment}[Access Website]
