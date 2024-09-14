@@ -12,6 +12,10 @@ image::../images/sea_ice_area_fraction.png[]
 .surface_snow_thicknes
 image::../images/surface_snow_thicknes.png[]
 
+.sea_ice_velocity
+image::../images/sea_ice_velocity.png[]
+
+
 == Data Access
 
 Demonstration of possibility to access CMEMS dataset from Destination Earth Data Lake. Attached Jupyter notebook in PDF form is showing possibility to access, download and visualize the data in Polar TEP IDE.  
@@ -19,9 +23,15 @@ Demonstration of possibility to access CMEMS dataset from Destination Earth Data
 :pdf-attachment: ../images/hda_pystac_client.pdf
 link:{pdf-attachment}[Download PDF]
 
+
 == Data transfer between IcySea and Polar TEP
 
-In implementation
+Currently work in progress. 
+
+First version of S1 morphed images is displayed in the Polar Dashboard.
+
+.s1_morphed_images
+image::../images/s1_morphed.gif[]
 
 == Available DESP Data 
 
@@ -30,3 +40,8 @@ Waiting for data to be available on DESP.
 == Available Data 
 
 See Data Access above.
+
+Additionaly Sea Ice Charts are visualized in the dashboard.
+
+.sea_ice_charts
+image::../images/sea_ice_charts.png[]

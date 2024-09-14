@@ -2,10 +2,5 @@
 
 This section links to software used for the DESIDE Use Case:
 
-https://github.com/eurodatacube/eodash[eodash powering polar dashoboard]
-
-
-
-
-
+https://github.com/eodash/eodash[eodash v5 powering polar dashboard]
 

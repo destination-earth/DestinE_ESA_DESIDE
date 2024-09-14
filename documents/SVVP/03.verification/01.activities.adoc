@@ -50,4 +50,14 @@ This section outlines the verification activities for key DESIDE components.
 |REQ09
 |The available fallback data is accessible via the provided Jupyter notebook.
 |Demonstration
+
+|Available Data 
+|REQ10
+|The available RCM data is accessible via the dashboard visualisation.
+|Demonstration
+
+|Available Data 
+|REQ11
+|The available sea ice chart data are accessible via the dashboard and usable by polaris algorithm.
+|Demonstration
 |=======================
