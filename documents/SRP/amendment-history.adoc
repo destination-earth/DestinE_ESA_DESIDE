@@ -12,7 +12,8 @@ The Amendment Record Sheet below records the history and issue status of this do
 
 | 0.1 | 12/12/2023 | Initial in-progress draft
 | 0.2 | 22/04/2024 | Update for Review 1
-| 1.0 | | First released version
+| 1.0 | 22/04/2024 | First released version
+| 1.1 | 19/09/2024 | Second released version
 |===
 
 '''

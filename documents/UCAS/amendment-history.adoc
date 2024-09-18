@@ -11,7 +11,8 @@ The Amendment Record Sheet below records the history and issue status of this do
 | ISSUE | DATE | REASON
 
 | 0.1 | 22/04/2024 | Initial in-progress draft
-| 1.0 | | First released version
+| 1.0 | 22/04/2024 | First released version
+| 1.1 | 19/09/2024 | First released version
 |===
 
 '''

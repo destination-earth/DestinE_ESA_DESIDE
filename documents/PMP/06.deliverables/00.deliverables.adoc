@@ -2,7 +2,7 @@
 = Deliverables
 
 All documentation will be delivered electronically in a format agreed
-with by RHEA. Draft versions will be sent to the Technical Officer not
+with by Starion. Draft versions will be sent to the Technical Officer not
 later than two weeks before the documentation is to be presented.
 
 The content of all documentation will, at a minimum, cover that outlined

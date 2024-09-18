@@ -27,14 +27,14 @@ a|
 |Pre-conditions
 a|
 The following data sets need to be available via the DESP platform:
-SAR based ice drift and forecasted ice drift from Copernicus Marine Service (CMS).
-Sea ice thickness, SAR and icechart based and forecasted, from CMS
+SAR based ice drift and forecasted ice drift from Copernicus Marine Service (CMEMS).
+Sea ice thickness, SAR and icechart based and forecasted, from CMEMS
 
 |Post-conditions
 a| 
 Combined dataset of sea ice information based on satellite observations and model simulations available.
 Validate sea ice data based on ship data/feedback.
-Include datasets into the various DESIDE platforms e.g. PolarTEP.
+Include datasets into the various DESIDE platforms e.g. Polar Dashboard.
 
 |Normal flow
 a| 
@@ -50,8 +50,8 @@ to Finnish winter ports. The agency procures icebreaking services from service p
 assistance restrictions to Finnish ports and coordinates the use of icebreaking resources. FTIA acts in 
 close coordination with the Swedish Maritime Administration (SMA) regarding icebreaking in the Gulf of Bothnia.
 
-Currently FTIA uses FMI's ice charts and forecasts as well as the HELMI SEA-ice model as well as the satellite and 
-ice radar images. From our viewpoint the most interesting developments to products would be a better coverage 
+Currently FTIA uses FMI's ice charts and forecasts as well as the HELMI SEA-ice model and the satellite and 
+ice radar images. From their viewpoint the most interesting developments to products would be a better coverage 
 for ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression. 
 In addition, information concerning the volume and deformation characteristics of sea ice, if possible divided by
 the sea area, are important.

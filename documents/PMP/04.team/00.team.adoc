@@ -1,7 +1,7 @@
 [[TeamOrganization]]
 = Team Organization
 
-Polar View will be prime contractor and responsible for the overall
+Polar View is the prime contractor and responsible for the overall
 execution of the proposed activity. The team members and their roles are
 as follows:
 
@@ -42,10 +42,7 @@ interface with other contact points at RHEA and ESA. The Project Manager
 is supported by the Software and End-User Leads, Stephan Meißl and Lasse
 Rabenstein respectively. Each Lead will be responsible for all related
 tasks and deliverables and will interface as required with all task
-contributors. Figure 1 provides an overview of reporting lines and task
-responsibilities.
-
-Figure 1: Project Team and Reporting Lines TODO
+contributors. 
 
 <<KeyPersonnelRoles>> shows the project team’s key personnel and their roles.
 

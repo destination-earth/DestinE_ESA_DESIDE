@@ -7,12 +7,12 @@
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Software Requirements Specification
-:doc-num: D-XXX
-:revnumber: 0.2
+:doc-num: SRS
+:revnumber: 1.1
 :revdate: 22/04/2024
 // :revremark:
 :category:
-:copyrightYear: 2023, 2024
+:copyrightYear: 2024
 // attributes
 :sectnums:
 :sectnumlevels: 5
