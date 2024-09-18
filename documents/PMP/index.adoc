@@ -9,7 +9,7 @@
 :doc-title: Project Management Plan
 :doc-num: D5.1
 :revnumber: 1.1
-:revdate: 19/09/2023
+:revdate: 19/09/2024
 // :revremark:
 :category:
 :copyrightYear: 2024
