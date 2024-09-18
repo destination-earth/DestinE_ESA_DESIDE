@@ -46,6 +46,7 @@ a| The following data sets need to be available via the DESP platform:
 . DMI: https://download.dmi.dk/public/ICESERVICE/
 . US NIC, weekly charts: https://usicecenter.gov/Products
 . US NWS, daily charts Alaska: https://portal.aoos.org/?ls=CGOnN2L_#map
+. Canadian Ice Service, daily charts
 . AARI (not sure about this one): http://ice.aari.aq
 . Norway (we only have access to the newest zip file): https://cryo.met.no/sites/cryo/files/latest/NIS_arctic_latest_pl_a.zip
 

@@ -23,7 +23,7 @@ This web service can be integrated in AMAP defined dashboards which they are dev
 |Actors
 a| 
 * AMAP secretariat (Pan-Arctic and regional levels)
-* Norwegian Directorate for Environment (is interested, but not committed through an agreement, regional level in European part of the Arctic)
+* Norwegian Directorate for Environment (is interested in the regions in the European part of the Arctic)
 * DESIDE sea ice climate experts
 * DESIDE service development expert
 

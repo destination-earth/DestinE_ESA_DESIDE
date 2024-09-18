@@ -1,15 +1,15 @@
 :doctype: book
-:author: EOX Team
-:email: <office@eox.at>
+:author: Polar View Team
+:email: david.arthurs@polarview.org
 :project: DESIDE
 :project-name: Destination Earth DESP Use Cases: DestinE Sea Ice Decision Enhancement (DESIDE)
 :component-name: DESIDE
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Use Case Promotion Package
-:doc-num: D-XXX
-:revnumber: 0.1
-:revdate: 18/09/2024
+:doc-num: D5.5
+:revnumber: 1.1
+:revdate: 19/09/2024
 // :revremark:
 :category:
 :copyrightYear: 2024

@@ -1,7 +1,7 @@
 [[WorkDescription]]
 = Work Description
 
-The Work Breakdown Structure (WBS) of the project consists of for Work
+The Work Breakdown Structure (WBS) of the project consists of four Work
 Packages:
 
 - WP1 Project Management

@@ -21,7 +21,6 @@ in the bar chart of <<ProjectSchedule>>.
 
 == Bar Chart
 
-The project started on 15 February 2024 and will proceed for one year.
 <<ProjectSchedule>> shows the project schedule, including all proposed Work
 Packages, meetings, deliverables, and progress reports.
 
