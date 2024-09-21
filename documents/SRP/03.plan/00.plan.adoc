@@ -6,14 +6,9 @@
 | Component | Version | Release Date | Comment 
 
 |Dashboard
-|2.0.0
-|2. 9. 2024
-|Major release of polar dashboard upgrade to eodash v5, including new features and new datasets.
-
-|Jupyter Notebook
-|0.0.1
-|23. 4. 2024
-|Interactive Jupyter notebook demonstrating data access from DESP.
+|5.0.2
+|21. 11. 2024
+|Polar dashboard upgrade, including new features and new datasets.
 
 |Ice Cube
 |0.0.1
