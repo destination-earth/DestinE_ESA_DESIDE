@@ -14,4 +14,34 @@
 |0.0.1
 |23. 4. 2024
 |Interactive Jupyter notebook demonstrating data access from DESP.
+
+|Ice Cube
+|0.0.1
+|21. 11. 2024
+|Data cube containing ice charts and other related information.
+
+|Climate Indicators
+|0.0.1
+|21. 11. 2024
+|Ensemble of climate indicators from various climate models, including DEDT
+
+|RCM
+|0.0.2
+|21. 11. 2024
+|Radarsat Constellation Mission data
+
+|Satellite Image Morphing
+|0.0.2
+|21. 11. 2024
+|Algorithm to morph SAR images based on ice drift models to interporlate between image acquisitions.
+
+|CMEMS Data
+|0.0.2
+|21. 11. 2024
+|Various CMEMS data sets available in the dashboard to be accessed through DEDL.
+
+|IcySea
+|0.0.2
+|21. 11. 2024
+|Data available in IcySea.
 |===
