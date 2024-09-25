@@ -1,0 +1,35 @@
+
+'''
+Edit: H. Jakob Buenger, 2024-09-25
+
+END USER FEEDBACK::
+In the framework of DESIDE various new data layers have been implemented in IcySea. 
+This document gathers the feedback we have received from users of these new data layers.
+The '+' indicates positive feedback regarding the specific layer, while '-' indicates wishes and needs that haven't been met yet.
+
+RCM radar satellite imagery in IcySea:
++ Extra coverage of RCM complements S1 coverage very well
+   + Regions that S1 doesn't cover are covered now, especially the central Arctic (north of 81°N)
++ Much better temporal coverage (daily updates sometimes even more frequent depending on where users operate).
++ Faster processing times (images are available within one hour after satellite acquisition) increase usability significantly.
+   + high update frequency allows for easier comparison between sat image and ice radar - increases situational awareness
+
+- Regional differences in data availability (CSA issue)
+- Access to original image information needed (source and acquisition time) - needed for reporting, especially in Canadian waters
+
+
+Satellite image layer (in general):
+- Increasing demand for shifted images to bridge gaps between consecutive images
+- Access to older images, e.g. the most recent image, but also all images from the previous 3 to 10 days
+
+
+Ice Charts:
++ Representation of the ice charts in IcySea is very user-friendly and intuitive
+   + direct POLARIS calculation is valuable (no need for manual calculations on the ship)
+   - POLARIS calculation is only possible for limited selection of ice classes
+   - Egg Code windows for multiple polygons at the same time
+
+- More official ice chart products needed - highest demand for daily Canadian charts!
+- AIRSS risk assessment needed as well, especially for older ships and in Canadian waters (crews need it for their reporting)
+
+'''
