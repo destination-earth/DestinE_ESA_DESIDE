@@ -8,7 +8,7 @@
 | Use case: Ships in ice
 
 |Last updated
-a| 2024-07-17
+a| 2024-09-25
 
 |Last updated by
 a| Jakob Buenger
@@ -47,8 +47,10 @@ a| The following data sets need to be available via the DESP platform:
 . US NIC, weekly charts: https://usicecenter.gov/Products
 . US NWS, daily charts Alaska: https://portal.aoos.org/?ls=CGOnN2L_#map
 . Canadian Ice Service, daily charts
+. Canadian Ice Service, weekly charts
 . AARI (not sure about this one): http://ice.aari.aq
 . Norway (we only have access to the newest zip file): https://cryo.met.no/sites/cryo/files/latest/NIS_arctic_latest_pl_a.zip
+. Argentinian Hydrographic Institute, weekly charts (twice a week): https://www.hidro.gob.ar/Smara/glacio/sglaciologica_ing.asp?op=2
 
 
 |Post-conditions
