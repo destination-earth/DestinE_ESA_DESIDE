@@ -9,10 +9,10 @@
 :doc-title: Software Verification and Validation Report
 :doc-num: SVVR
 :revnumber: 1.1
-:revdate: 19/09/2024
+:revdate: 12/05/2025
 // :revremark:
 :category:
-:copyrightYear: 2024
+:copyrightYear: 2025
 // attributes
 :sectnums:
 :sectnumlevels: 5

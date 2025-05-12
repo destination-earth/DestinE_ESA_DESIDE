@@ -8,11 +8,11 @@
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
 :doc-title: Use Case Application Software
 :doc-num: D5.3
-:revnumber: 1.1
-:revdate: 19/09/2024
+:revnumber: 1.2
+:revdate: 12/05/2025
 // :revremark:
 :category:
-:copyrightYear: 2024
+:copyrightYear: 2025
 // attributes
 :sectnums:
 :sectnumlevels: 5

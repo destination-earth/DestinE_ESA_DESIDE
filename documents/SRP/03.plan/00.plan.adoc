@@ -6,8 +6,8 @@
 | Component | Version | Release Date | Comment 
 
 |Dashboard
-|5.0.2
-|21. 11. 2024
+|5.0.3
+|30. 4. 2025
 |Polar dashboard upgrade, including new features and new datasets.
 
 |Ice Cube
@@ -16,9 +16,9 @@
 |Data cube containing ice charts and other related information.
 
 |Climate Indicators
-|0.0.1
-|21. 11. 2024
-|Ensemble of climate indicators from various climate models, including DEDT
+|0.0.2
+|9. 5. 2025
+|Updated ensemble of climate indicators from various climate models, including DEDT
 
 |RCM
 |0.0.2
@@ -26,9 +26,9 @@
 |Radarsat Constellation Mission data
 
 |Satellite Image Morphing
-|0.0.2
-|21. 11. 2024
-|Algorithm to morph SAR images based on ice drift models to interporlate between image acquisitions.
+|0.0.3
+|9. 5. 2025
+|Algorithm to morph SAR images based on ice drift models to interporlate between image acquisitions. Update includes number of GCPs as input parameter.
 
 |CMEMS Data
 |0.0.2

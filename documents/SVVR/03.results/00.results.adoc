@@ -24,14 +24,17 @@ Demonstration of possibility to access CMEMS dataset from Destination Earth Data
 link:{pdf-attachment}[Download PDF]
 
 
+Demonstration of Harshness Indicator Algorithm
+
+.harshness
+image::../images/harshness.png[]
+
 == Data transfer between IcySea and Polar TEP
 
-Currently work in progress. 
-
-First version of S1 morphed images is displayed in the Polar Dashboard.
+Updated and final version of S1 morphed images is displayed in the Polar Dashboard.
 
 .s1_morphed_images
-image::../images/s1_morphed.gif[]
+image::../images/s1morphed_gif.gif[]
 
 == Available DESP Data 
 
@@ -45,3 +48,8 @@ Additionaly Sea Ice Charts are visualized in the dashboard.
 
 .sea_ice_charts
 image::../images/sea_ice_charts.png[]
+
+POLARIS calculation results are visible in the dashboard. 
+
+.polaris
+image::../images/polaris.png[]
