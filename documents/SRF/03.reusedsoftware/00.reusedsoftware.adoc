@@ -8,4 +8,12 @@ The following software has been used in DESIDE.
 |===
 | Code | Title                 | Location 
 |1| eodash                     | https://github.com/eodash/eodash
+|2| DESIDE data catalog        | https://github.com/gtif-cerulean/deside-catalog
+|3| DESIDE eodash client       | https://github.com/gtif-cerulean/deside-client 
+|4| Climate Indicator chart definition       | https://github.com/gtif-cerulean/assets/blob/main/chartdefs/climate_indicator.json  
+|5| Polar Dashboard POLARIS results including Ice Charts       | https://github.com/gtif-cerulean/deside-catalog/blob/main/collections/polaris.json  
+|6| Predicted Ice IMAges module producing S1 moprhed images       | https://github.com/DriftNoise/priima 
 |===
+
+
+
