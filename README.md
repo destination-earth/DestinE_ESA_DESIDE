@@ -14,3 +14,13 @@ One driver for the project is the regulation of the International Maritime Organ
 A second driver for the project is the effect of climate change on polar conditions that will impact long-term planning and policy development for polar operations such as fishing, tourism, scientific research campaigns, oil and gas development, and supplying northern communities.  The Use Case will deliver long-term forecasts of how changing sea ice and other conditions will affect where different types of ships will be able to travel in the polar regions compared to historical averages.
 
 Benefits to polar operations and the rest of society will include increased safety of life and property, decreased pollution, and protection of sensitive environmental areas.
+
+
+## Related code repositories
+      
+- DESIDE Polar Dashboard: 
+  - DESIDE data catalog: https://github.com/gtif-cerulean/deside-catalog
+  - DESIDE eodash client: https://github.com/gtif-cerulean/deside-client       
+- Climate Indicator chart definition: https://github.com/gtif-cerulean/assets/blob/main/chartdefs/climate_indicator.json
+- Polar Dashboard POLARIS results including Ice Charst: https://github.com/gtif-cerulean/deside-catalog/blob/main/collections/polaris.json
+- Predicted Ice IMAges module producing S1 moprhed images : https://github.com/DriftNoise/priima    
