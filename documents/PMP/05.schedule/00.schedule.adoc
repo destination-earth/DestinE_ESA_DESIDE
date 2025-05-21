@@ -26,4 +26,4 @@ Packages, meetings, deliverables, and progress reports.
 
 [[ProjectSchedule]]
 .Project Schedule
-image::../images/project-schedule.png[]
+image::../images/project-schedule-2.png[]
