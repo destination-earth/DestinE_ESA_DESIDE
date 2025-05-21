@@ -6,7 +6,7 @@
 :component-name: DESIDE
 :component-github-name: https://github.com/destination-earth/DestinE_ESA_DESIDE/documents
 :component-github-pages: https://destination-earth.github.io/DestinE_ESA_DESIDE/
-:doc-title: Use Case Descripton
+:doc-title: Use Case Description
 :doc-num: D5.2
 :revnumber: 1.1
 :revdate: 19/09/2024
