@@ -14,9 +14,9 @@ in the bar chart of <<ProjectSchedule>>.
 | Review      | Description              | Deliverables                                      | Schedule      | Venue
 
 |RR 1         | Focus on Polar TEP       | D5.1, D5.2, D5.3, D5.5, SRS, SVVP, SVVR, SRF, SRP | 29 April 2024 | Virtual
-|RR 2         | Focus on Polar Dashboard | D5.1, D5.2, D5.3, D5.5, SRS, SVVP, SVVR, SRF, SRP | KO + 7 months | Virtual
-|RR 3         | Focus on IcySea          | D5.1, D5.2, D5.3, D5.5, SRS, SVVP, SVVR, SRF, SRP | KO + 9 months | Virtual
-|Final Review | Focus on integration across Polar TEP, Polar Dashboard, and IcySea. Presentation of final project results. | D5.1, D5.2, D5.3, D5.4, D5.5, D5.6, SRS, SVVP, SVVR, SRF, SRP, FR, CCD | KO + 12 months | Virtual
+|RR 2         | Focus on Polar Dashboard | D5.1, D5.2, D5.3, D5.5, SRS, SVVP, SVVR, SRF, SRP | September 19, 2024 | Virtual
+|RR 3         | Focus on IcySea          | D5.1, D5.2, D5.3, D5.5, SRS, SVVP, SVVR, SRF, SRP | May 16, 2025 | Virtual
+|Final Review | Focus on integration across Polar TEP, Polar Dashboard, and IcySea. Presentation of final project results. | D5.1, D5.2, D5.3, D5.4, D5.5, D5.6, SRS, SVVP, SVVR, SRF, SRP, FR, CCD | June 30, 2025 | Virtual
 |===
 
 == Bar Chart
