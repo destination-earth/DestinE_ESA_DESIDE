@@ -18,7 +18,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Project Management         | WP No: 1
 | Start Event: KO | Start Date: KO         | WP Leader: David Arthurs
-| End Event: FR   | End Date: KO+12 months | Level of Effort: 649 hours
+| End Event: FR   | End Date: June 30, 2025 | Level of Effort: 649 hours
 3+| *WP Objectives*: Manage the activity and ensure all tasks are executed on time, on budget and on schedule according to the Project Management Plan. Contribute as necessary to all plans, processes, and tools for the execution and validation of the ESA-DEUC project.
 2+| Tasks | Responsible
 2+| *WP 1.1: Project Management and Control*
