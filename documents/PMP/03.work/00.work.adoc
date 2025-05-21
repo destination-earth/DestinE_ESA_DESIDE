@@ -67,7 +67,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Agile Use Case Development and Demonstration | WP No: 2
 | Start Event: KO | Start Date: KO         | WP Leader: Stephan Meißl
-| End Event: FR   | End Date: KO+12 months | Level of Effort: 3,422 hours
+| End Event: FR   | End Date: June 30, 2025 | Level of Effort: 3,422 hours
 3+| *WP Objectives*: Using an agile methodology, plan, specify, design, test, review, and launch the DESIDE Use Case.
 2+| Tasks | Responsible
 2+| *WP 2.1: End-User Engagement*
@@ -118,7 +118,7 @@ The Work Packages and their constituent tasks are described in the tables below.
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Use Case Promotion | WP No: 3
 | Start Event: KO | Start Date: KO         | WP Leader: Lasse Rabenstein
-| End Event: FR   | End Date: KO+12 months | Level of Effort: 476 hours
+| End Event: FR   | End Date: June 30, 2025 | Level of Effort: 476 hours
 3+| *WP Objectives*: Engage with users and promote awareness of the DestinE platform, applications and services.
 2+| Tasks |Responsible
 2+| *WP 3.1: Use Case Promotion Package*
@@ -143,8 +143,8 @@ The Work Packages and their constituent tasks are described in the tables below.
 |===
 3+| *Project*: DestinE Sea Ice Decision Enhancement (DESIDE)
 2+| *WP Title*: Use Case Exploitation | WP No: 4
-| Start Event: RR3 | Start Date: KO +9      | WP Leader: Lasse Rabenstein
-| End Event: FR    | End Date: KO+12 months | Level of Effort: 461 hours
+| Start Event: RR3 | Start Date: May 16, 2025      | WP Leader: Lasse Rabenstein
+| End Event: FR    | End Date: June 30, 2025 | Level of Effort: 461 hours
 3+| *WP Objectives*: Provide a roadmap for the optimal implementation and exploitation of the Use Case application throughout the development period and beyond.
 2+|Tasks | Responsible
 2+|*WP 4.1: Use Case Exploitation Roadmap*
