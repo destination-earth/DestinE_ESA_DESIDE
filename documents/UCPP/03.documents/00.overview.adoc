@@ -3,13 +3,34 @@
 This section contains the documents in the Use Case Promotion Package
 
 :poster-attachment: ../images/DESIDE_Poster.pdf
-link:{poster-attachment}[Download Poster]
+link:{poster-attachment}[DESIDE Poster]
 
 :slides-attachment: ../images/DESIDE_Slides_2.pptx
-link:{slides-attachment}[Download Slides]
+link:{slides-attachment}[DESIDE Introductory Slides]
 
 :description-attachment: ../images/DestinE_Use_Case_DESIDE.docx
-link:{description-attachment}[Download Description]
+link:{description-attachment}[DESIDE Description]
 
 :website-attachment: https://deside.polarview.org/
-link:{website-attachment}[Access Website]
+link:{website-attachment}[DESIDE Website]
+
+This section contains material created for specific events
+
+[IICWG Workshop Slides]
+
+[RR3 Slides]
+
+This section contains promotion material created by others
+
+:website-attachment: https://marine.copernicus.eu/services/use-cases/bridging-data-gaps-smarter-arctic-and-antarctic-navigation
+link:{website-attachment}[Copernicus Marine Service Use Case]
+
+:website-attachment: https://www.youtube.com/watch?v=aVtes_u7WwQ
+link:{website-attachment}[DestinE Use Cases Video]
+
+:website-attachment: https://destination-earth.eu/event/roadshow-webinar-deside/
+link:{website-attachment}[DESIDE Webinar]
+
+:website-attachment: https://destination-earth.eu/news/navigating-polar-frontier-deside-use-case/
+link:{website-attachment}[DestinE Blog]
+
