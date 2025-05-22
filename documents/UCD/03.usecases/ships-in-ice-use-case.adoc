@@ -1,17 +1,17 @@
-## Ships in ice
+## Arctic
 
 [[shipsiniceusecase]]
 .Use Case description for AWI, Ponant and others.
 [cols=">1h,4"]
 |===
 |Name
-| Use case: Ships in ice
+| Use case: Arctic Shipping
 
-|Last updated
-a| 2024-09-25
+| Updated
+a| 2024-09-25, 2025-05-22
 
-|Last updated by
-a| Jakob Buenger
+| Updated by
+a| Jakob Buenger, David Arthurs
 
 |Goal
 a| Provide navigation-relevant, high temporal and spatial resolution sea ice information products to ice going ships. The data needs to be delivered in an easy-to-use user-friendly way which provides interpretation help and allows for easy decision-making even without expert sea ice knowledge. Due to the dynamic nature of moving sea ice, forecasts of the variable conditions are oftentimes mission-critical as well. 
@@ -36,45 +36,35 @@ a|
 * DESIDE ice consultant (Drift+Noise)
 
 |Pre-conditions
-a| The following data sets need to be available via the DESP platform:
+a| The following data sets need to be available via the DESIDE platforms:
 
 * RADARSAT Constellation Mission (RCM) SAR imagery (https://www.eodms-sgdot.nrcan-rncan.gc.ca/)
 * Sentinel-1 (ESA) SAR imagery (https://browser.dataspace.copernicus.eu/)
-* Sea ice drift forecast data (TOPAZ5, neXtSIM)(https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_002_001/description and https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_ICE_002_011/description)
-* ICON wind forecast data (https://opendata.dwd.de/weather/nwp/icon/grib/)
-* Sea ice charts from all the national ice services:
-. DMI: https://download.dmi.dk/public/ICESERVICE/
-. US NIC, weekly charts: https://usicecenter.gov/Products
-. US NWS, daily charts Alaska: https://portal.aoos.org/?ls=CGOnN2L_#map
-. Canadian Ice Service, daily charts
-. Canadian Ice Service, weekly charts
-. AARI (not sure about this one): http://ice.aari.aq
-. Norway (we only have access to the newest zip file): https://cryo.met.no/sites/cryo/files/latest/NIS_arctic_latest_pl_a.zip
-. Argentinian Hydrographic Institute, weekly charts (twice a week): https://www.hidro.gob.ar/Smara/glacio/sglaciologica_ing.asp?op=2
-
+* Sea ice and met-ocean data (https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_002_001/description; https://data.marine.copernicus.eu/product/ARCTIC_ANALYSISFORECAST_PHY_ICE_002_011/description; https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/description; https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_WAV_001_027/description; https://data.marine.copernicus.eu/product/WIND_GLO_PHY_L4_NRT_012_004/description)
+* Sea ice charts from national ice services:
+- DMI: https://download.dmi.dk/public/ICESERVICE/
+- US NIC, weekly charts: https://usicecenter.gov/Products
+- US NWS, daily charts Alaska: https://portal.aoos.org/?ls=CGOnN2L_#map
+- Canadian Ice Service, daily charts
+- Canadian Ice Service, weekly charts
+- AARI (not sure about this one): http://ice.aari.aq
+- Norway (we only have access to the newest zip file): https://cryo.met.no/sites/cryo/files/latest/NIS_arctic_latest_pl_a.zip
+- Argentinian Hydrographic Institute, weekly charts (twice a week): https://www.hidro.gob.ar/Smara/glacio/sglaciologica_ing.asp?op=2
 
 |Post-conditions
 a| 
-. Added value data sets (morphed images)
-. Create intermediate data sets (drift forecast trajectories) 
-. Validate morphed images based on ship data/feedback
-. Include above-mentioned data set into the various DESIDE platforms e.g. PolarTEP
-. Include RCM and ice charts in IcySea
-
+* Added value data analysis (image warping, Harshness Index, Structure Icing, POLARIS Risk, Image Interpretation)
+* Include above-mentioned data set into the DESIDE platforms: Dashboard, PolarTEP
+* Include RCM and ice charts in IcySea
 
 |Normal flow
 a| 
-. Provide users with preliminary access to the various DESIDE platforms
-. Collect their feedback
-. Implement feedback
-
+* Provide users with preliminary access to the various DESIDE platforms
 
 |Notes and issues
 a| 
-* Implementation into IcySea (contract issue), IcySea code won't be shared
 * Define areas of interest:
 - AWI: Arctic-wide
 - Ponant: special interest in data for the journey to the North Pole
-* Connect local ship data with image processor
 
 |===
