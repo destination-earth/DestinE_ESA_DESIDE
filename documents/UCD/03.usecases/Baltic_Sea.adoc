@@ -8,10 +8,10 @@
 | Baltic Sea icebreaker management.
 
 | Updated
-a| 2024-03-08 | 2025-05-22
+a| 2024-03-08, 2025-05-22
 
 | Updated by
-a| Marko Mäkynen | David Arthurs
+a| Marko Mäkynen, David Arthurs
 
 |Goal
 a| 
