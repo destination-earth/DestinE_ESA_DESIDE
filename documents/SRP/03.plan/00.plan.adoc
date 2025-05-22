@@ -5,38 +5,69 @@
 |===
 | Component | Version | Release Date | Comment 
 
-|Dashboard
+|DESIDE Dashboard
 |5.0.3
 |30. 4. 2025
 |Polar dashboard upgrade, including new features and new datasets.
 
-|Ice Cube
+|Polar TEP Workspace
+|
+|
+|Polar TEP instance for DESIDE.
+
+|IcySea
+|0.0.2
+|21. 11. 2024
+|Data available in IcySea.
+
+|Ice Chart Repository
 |0.0.1
 |21. 11. 2024
-|Data cube containing ice charts and other related information.
+|Repository containing ice charts.
+
+|RCM Repository
+|0.0.2
+|21. 11. 2024
+|Radarsat Constellation Mission data repository.
 
 |Climate Indicators
 |0.0.2
 |9. 5. 2025
 |Updated ensemble of climate indicators from various climate models, including DEDT
 
-|RCM
-|0.0.2
-|21. 11. 2024
-|Radarsat Constellation Mission data
-
-|Satellite Image Morphing
+|Satellite Image Warping
 |0.0.3
 |9. 5. 2025
-|Algorithm to morph SAR images based on ice drift models to interporlate between image acquisitions. Update includes number of GCPs as input parameter.
+|Algorithm to warp SAR images based on ice drift models to interporlate between image acquisitions. Update includes number of GCPs as input parameter.
+
+|DEDL Data
+|
+|
+|Various DEDL data sets available in the dashboard and Polar TEP.
 
 |CMEMS Data
 |0.0.2
 |21. 11. 2024
-|Various CMEMS data sets available in the dashboard to be accessed through DEDL.
+|Various CMEMS data sets available in the dashboard and Polar TEP.
 
-|IcySea
-|0.0.2
-|21. 11. 2024
-|Data available in IcySea.
+|Harshness Index
+|
+|
+|
+
+|Structure Icing
+|
+|
+|
+
+|POLARIS Risk
+|
+|
+|
+
+|Image Interpretation
+|
+|
+|
+
 |===
