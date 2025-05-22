@@ -78,6 +78,6 @@ This section outlines the verification activities for key DESIDE components.
 
 |Sea Ice Charts 
 |REQ15
-|The available sea ice chart data are accessible via the DESIDE dashboard for visualisation, in a Polar TEP workspace for processing, and usable by the POLARIS algorithm.
+|The available sea ice charts are accessible via the DESIDE dashboard for visualisation, in a Polar TEP workspace for processing, and usable by the POLARIS algorithm.
 |Demonstration
 |=======================
