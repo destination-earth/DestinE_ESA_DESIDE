@@ -71,13 +71,18 @@ This section outlines the verification activities for key DESIDE components.
 |ML interpretation of sea ice characteristics from Sentinel 1 images is accessible via the DESIDE dashboard for visualisation.
 |Demonstration
 
-|RCM Data 
+|Data Statistics 
 |REQ14
+|Data statistics for user selected regions of interest are accessible via the DESIDE dashboard for visualisation.
+|Demonstration
+
+|RCM Data 
+|REQ15
 |The available RCM data are accessible via the DESIDE dashboard for visualisation and in a Polar TEP workspace for processing.
 |Demonstration
 
 |Sea Ice Charts 
-|REQ15
+|REQ16
 |The available sea ice charts are accessible via the DESIDE dashboard for visualisation, in a Polar TEP workspace for processing, and usable by the POLARIS algorithm.
 |Demonstration
 |=======================
