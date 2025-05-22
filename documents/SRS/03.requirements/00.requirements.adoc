@@ -4,109 +4,122 @@
 This chapter lists the software requirements with a requirements matrix and references to documents.
 
 [cols="1,1,1,2,6,1"]
-|===
+|=== 
 | Doc | Reference | Section | Title | Short Description | Compliance
 
 |UCD
 |REQ01
-|3.2., 3.3., & 3.4.
-|Interactive dashboard
-|DESIDE shall provide an online dashboard allowing users to interactively explore processed, integrated and combined dataset for the various covered regions and projections. Within the interactive dashboard users shall be able to compare historical sea ice indicators with future projections in order to establish a trust in future projections based on historical performance.
+|3.2, 3.3, 3.4.
+|DESIDE dashboard
+|DESIDE shall provide a dashboard allowing users to interactively explore processed, integrated and combined dataset for the various covered regions and projections.
 |C
 
 |UCD
 |REQ02
-|3.2., 3.3., & 3.4.
-|Data access
-|Access to sea ice data including ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression, and volume and deformation characteristics of sea ice shall be demonstrated and provided.
+|3.2, 3.3, 3.4.
+|Polar TEP workspace
+|DESIDE shall provide access to a Polar TEP workspace allowing users to develop computer programs that use the DESIDE datasets.
 |C
 
 |UCD
 |REQ03
+|3.3, & 3.4.
+|IcySea
+|DESIDE shall provide access to the IcySea app allowing shipboard users to access sea ice information needed for tactical navigation.
+|C
+
+|UCD
+|REQ04
+|3.2.
+|Climate Indicators
+|Within the DESIDE dashboard, users shall be able to compare historical sea ice indicators with future projections. This will include data from the DestinE Digital Twin.
+|P, in development. The first climate model examples are shown in the polar dashboard. Data from the Digital Twin is being added.
+
+|UCD
+|REQ05
+|3.3.
+|Baltic CMEMS Data
+a|The DESIDE dashboard and Polar TEP workspace shall provide access to the following data served from CMEMS:
+* BALTICSEA_ANALYSISFORECAST_PHY_003_006
+* BALTICSEA_ANALYSISFORECAST_WAV_003_010
+* SEAICE_BAL_SEAICE_L4_NRT_OBSERVATIONS_011_004
+* SEAICE_BAL_SEAICE_L4_NRT_OBSERVATIONS_011_011
+|P, in development.
+
+|UCD
+|REQ06
+|3.4.
+|Arctic DESP Data 
+a|The DESIDE dashboard and Polar TEP workspace shall provide access to the following data served from DESP:
+* GLOBAL_ANALYSISFORECAST_PHY_001_024
+* GLOBAL_ANALYSISFORECAST_WAV_001_027
+* WIND_GLO_PHY_L4_NRT_012_004
+Note: The availability of this data on DESP is a precondition.
+|P, in development. CMEMS data are currently shown in the DESIDE dashboard.
+
+|UCD
+|REQ07
+|3.4.
+|Arctic CMEMS Data 
+a|The DESIDE dashboard and Polar TEP workspace shall provide access to the following data served from CMEMS:
+* SEAICE_ARC_SEAICE_L4_NRT_OBSERVATIONS_011_007
+|C
+
+|UCD
+|REQ08
 |3.4.
 |Data transfer between IcySea and Polar TEP
 |The exchanging and sending of data between Polar TEP and IcySea application for display and analysis in both platforms shall be supported.
 |P, in development. First data examples are shown in the polar dashboard.
 
 |UCD
-|REQ04
-|3.2.
-|Available DESP Data 
-a|The interactive dashboard and notebook shall provide access to the following data served from DESP:
-
-* TOPAZ4b - Arctic Ocean Physics Reanalysis
-* TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
-* All data referenced in the "Pre-conditions" row of the table in 3.2. of the UCD.
-Note: The availability of this data on DESP is a precondition.
-|N, as precondition is not met.
-
-|UCD
-|REQ05
-|3.2.
-|Available Data
-a|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
-
-* TOPAZ4b - Arctic Ocean Physics Reanalysis
-* TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
-|C
-
-|UCD
-|REQ06
-|3.3.
-|Available DESP Data 
-a|The interactive dashboard and notebook shall provide access to the following data served from DESP:
-
-* TOPAZ4b - Arctic Ocean Physics Reanalysis
-* TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
-* All data referenced in the "Pre-conditions" row of the table in 3.3. of the UCD.
-Note: The availability of this data on DESP is a precondition.
-|N, as precondition is not met.
-
-|UCD
-|REQ07
-|3.3.
-|Available Data
-a|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
-
-* TOPAZ4b - Arctic Ocean Physics Reanalysis
-* TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
-|C
-
-|UCD
-|REQ08
-|3.4.
-|Available DESP Data 
-a|The interactive dashboard and notebook shall provide access to the following data served from DESP:
-
-* TOPAZ4b - Arctic Ocean Physics Reanalysis
-* TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
-* All data referenced in the "Pre-conditions" row of the table in 3.4. of the UCD.
-Note: The availability of this data on DESP is a precondition.
-|N, as precondition is not met.
-
-|UCD
 |REQ09
 |3.4.
-|Available Data
-a|The interactive dashboard and notebook shall still provide access to the following data in case it will not be available on DESP:
-
-* TOPAZ4b - Arctic Ocean Physics Reanalysis
-* TOPAZ5 - Arctic Ocean Physics Analysis And Forecast
+|Harshness Index
+a|The DESIDE dashboard shall provide the capability to calculate a Harshness Index based on a selection of environmental variables chosen by the user.
 |C
 
 |UCD
 |REQ10
 |3.4.
-|Available Data
-a|The interactive dashboard shall provide access to the RADARSAT Constellation Mission (RCM) SAR imagery
+|Sentinel 1 Image Warping
+a|The DESIDE dashboard and IcySea shall provide the capability to warp Sentinel 1 images based on sea ice drift forecasts.
 |C
 
 |UCD
 |REQ11
 |3.4.
-|Available Data
-a|Sea Ice Charts are available for display in dashboard and as input for POLARIS algorithm
+|Structure Icing
+a|The DESIDE dashboard shall provide the capability to the probability of encountering sturucture icing in a region based on historical data.
 |C
+
+|UCD
+|REQ12
+|3.4.
+|POLARIS Risk
+a|The DESIDE dashboard and IcySea shall provide the capability to calculate the risk to a ship from sea ice given the ship's ice classification and current sea ice conditions.
+|C
+
+|UCD
+|REQ13
+|3.4.
+|Sentinel 1 Image Interpretation
+a|The DESIDE dashboard shall provide interpretation of sea ice conditions from Sentinel 1 images using a Machine Learning trained algorithm.
+|C
+
+|UCD
+|REQ14
+|3.4.
+|RCM Data
+a|The DESIDE dashboard and Polar TEP workspace shall provide access to the RADARSAT Constellation Mission (RCM) SAR imagery
+|P, in development.
+
+|UCD
+|REQ15
+|3.4.
+|Sea Ice Charts
+a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice Charts.
+|P, in development.
 |===
 
 == DESIDE project diagram
