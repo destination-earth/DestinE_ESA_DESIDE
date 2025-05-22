@@ -109,13 +109,20 @@ a|The DESIDE dashboard shall provide interpretation of sea ice conditions from S
 
 |UCD
 |REQ14
+|3.3., 3.4.
+|Data Statistics
+a|The DESIDE dashboard shall allow calculation of data statistics for user selected regions of interest.
+|P, in development.
+
+|UCD
+|REQ15
 |3.4.
 |RCM Data
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to the RADARSAT Constellation Mission (RCM) SAR imagery
 |P, in development.
 
 |UCD
-|REQ15
+|REQ16
 |3.4.
 |Sea Ice Charts
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice Charts.
