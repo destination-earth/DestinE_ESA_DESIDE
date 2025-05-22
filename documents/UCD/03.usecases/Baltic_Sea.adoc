@@ -38,7 +38,7 @@ Include datasets into the various DESIDE platforms e.g. Polar Dashboard, Polar T
 
 |Normal flow
 a| 
-1. Provide FTIA with access to a selected DESIDE platform.
+Provide FTIA with access to a selected DESIDE platform.
 
 |Notes and issues
 a| 
