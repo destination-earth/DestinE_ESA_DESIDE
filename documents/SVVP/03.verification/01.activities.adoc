@@ -17,32 +17,32 @@ This section outlines the verification activities for key DESIDE components.
 |Demonstration
 
 |IcySea
-|REQ04
+|REQ03
 |The IcySea app is operational.
 |Demonstration
 
 |Climate Indicators 
-|REQ05
+|REQ04
 |The climate indicators are accessible via the DESIDE dashboard for visualisation.
 |Demonstration
 
 |Baltic CMEMS Data
-|REQ06
+|REQ05
 |The available CMEMS data are accessible via the DESIDE dashboard for visualisation and in a Polar TEP workspace for processing.
 |Demonstration
 
 |Arctic DESP Data 
-|REQ07
+|REQ06
 |The available DESP data are accessible via the DESIDE dashboard for visualisation and in a Polar TEP workspace for processing.
 |Demonstration
 
 |Arctic CMEMS Data
-|REQ08
+|REQ07
 |The available CMEMS data are accessible via the DESIDE dashboard for visualisation and in a Polar TEP workspace for processing.
 |Demonstration
 
 |Connection between IcySea and Polar TEP
-|REQ03
+|REQ08
 |The transfer of data between IcySea and Polar TEP is operational.
 |Testing
 
