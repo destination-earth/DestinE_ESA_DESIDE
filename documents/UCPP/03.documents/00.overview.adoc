@@ -16,7 +16,8 @@ link:{website-attachment}[DESIDE Website]
 
 This section contains material created for specific events
 
-[IICWG Workshop Slides]
+:slides-attachment: ../images/IICWG%202024%20DESIDE.pdf
+link:{slides-attachment}[IICWG Workshop Slides]
 
 :slides-attachment: ../images/DESIDE_RR3.pdf
 link:{slides-attachment}[RR3 Slides]
