@@ -7,15 +7,15 @@
 |Name
 | Baltic Sea icebreaker management.
 
-|Last updated
-a| 2024-03-08
+| Updated
+a| 2024-03-08 | 2025-05-22
 
-|Last updated by
-a| Marko Mäkynen
+| Updated by
+a| Marko Mäkynen | David Arthurs
 
 |Goal
 a| 
-Provide sea ice information for the Baltic Sea icebreaker management by Finnish Transport Infrastructure Agency (FTIA). The needed sea ice information includes ice movement observations using both buoys and radars as well as forecasts of sea-ice movement and compression, and volume and deformation characteristics of sea ice.
+Provide sea ice information for the Baltic Sea icebreaker management by Finnish Transport Infrastructure Agency (FTIA). The needed sea ice information includes sea ice concentration, thickness, and movement.
 
 |Actors
 a| 
@@ -27,25 +27,24 @@ a|
 |Pre-conditions
 a|
 The following data sets need to be available via the DESP platform:
-SAR based ice drift and forecasted ice drift from Copernicus Marine Service (CMEMS).
-Sea ice thickness, SAR and icechart based and forecasted, from CMEMS
+* SAR images
+* Sea ice drift and forecasted ice drift from Copernicus Marine Service (CMEMS).
+* Sea ice concentration and thickness from CMEMS
 
 |Post-conditions
 a| 
-Combined dataset of sea ice information based on satellite observations and model simulations available.
-Validate sea ice data based on ship data/feedback.
-Include datasets into the various DESIDE platforms e.g. Polar Dashboard.
+Combined datasets of sea ice information based on satellite observations and model simulations made available.
+Include datasets into the various DESIDE platforms e.g. Polar Dashboard, Polar TEP, IcySea
 
 |Normal flow
 a| 
 1. Provide FTIA with access to a selected DESIDE platform.
-2. Collect and analyze feedback on the data usability, accuracy, etc.
 
 |Notes and issues
 a| 
 |===
 
-The Finnish Transport Infrastructure Agency (FTIA) has the responsibility of arranging icebreaking services 
+The Finnish Transport Infrastructure Agency (FTIA) has the responsibility for arranging icebreaking services 
 to Finnish winter ports. The agency procures icebreaking services from service providers. Furthermore, FTIA sets 
 assistance restrictions to Finnish ports and coordinates the use of icebreaking resources. FTIA acts in 
 close coordination with the Swedish Maritime Administration (SMA) regarding icebreaking in the Gulf of Bothnia.
