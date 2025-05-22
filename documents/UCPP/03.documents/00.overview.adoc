@@ -18,7 +18,8 @@ This section contains material created for specific events
 
 [IICWG Workshop Slides]
 
-[RR3 Slides]
+:slides-attachment: ../images/DESIDE_RR3.pdf
+link:{slides-attachment}[RR3 Slides]
 
 This section contains promotion material created by others
 
