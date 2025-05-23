@@ -70,7 +70,7 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to the follo
 |3.3., 3.4.
 |Data Statistics
 a|The DESIDE dashboard shall allow calculation of data statistics for user selected regions of interest.
-|P, in development.
+|C
 
 |UCD
 |REQ09
