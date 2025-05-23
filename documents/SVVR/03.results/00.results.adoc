@@ -12,6 +12,12 @@ image::../images/REQ01_Dashboard.png[REQ01 DESIDE Dashboard]
 .REQ02 Polar TEP
 image::../images/REQ02_Polar_TEP.png[REQ02 Polar TEP]
 
+ +
+Instructions for accessing CMEMS datasets from Destination Earth Data Lake showing how to download and visualize the data in a Polar TEP IDE.  
+
+:pdf-attachment: ../images/hda-pystac-client.pdf
+link:{pdf-attachment}[Download PDF]
+
 == REQ03 IcySea
 
 .REQ03 IcySea
@@ -31,7 +37,7 @@ In preparation.
 == REQ06 Arctic DESP Data
 
 .REQ06 Arctic DESP Data
-image::../images/REQ06_ARctic_DESP_Data.png[REQ06 Arctic DESP Data]
+== image::../images/REQ06_ARctic_DESP_Data.png[REQ06 Arctic DESP Data]
 In preparation.
 
 == REQ07 Arctic CMEMS Data
@@ -72,22 +78,12 @@ image::../images/REQ13_Image_Interpretation.png[REQ13 Image Interpretation]
 == REQ14 RCM Data
 
 .REQ14 RCM Data
-image::../images/REQ14_RCM_Data.png[REQ14 RCM Data]
+== image::../images/REQ14_RCM_Data.png[REQ14 RCM Data]
 In preparation.
 
 == REQ15 Sea Ice Charts
 
 .REQ15 Sea Ice Charts
-image::../images/REQ15_Sea_Ice_Charts.png[REQ15 Sea Ice Charts]
+== image::../images/REQ15_Sea_Ice_Charts.png[REQ15 Sea Ice Charts]
 In preparation.
-
-
-
-== REQ02 Polar TEP
-
-Demonstration of possibility to access CMEMS dataset from Destination Earth Data Lake. Attached Jupyter notebook in PDF form is showing possibility to access, download and visualize the data in Polar TEP IDE.  
-
-:pdf-attachment: ../images/hda-pystac-client.pdf
-link:{pdf-attachment}[Download PDF]
-
 
