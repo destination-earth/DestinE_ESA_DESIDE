@@ -6,7 +6,7 @@
 Use cases are focused on input and output with the process in between described.
 The main focus is on stakeholder use and requirements.
 
-include::climate-perspective.adoc[]
+include::climate-perspective_2.adoc[]
 
 include::Baltic_Sea.adoc[]
 
