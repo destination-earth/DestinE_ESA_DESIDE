@@ -119,7 +119,7 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to the RADAR
 |3.4.
 |Sea Ice Charts
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice Charts.
-|P, in development.
+|C
 |===
 
 == DESIDE project diagram
