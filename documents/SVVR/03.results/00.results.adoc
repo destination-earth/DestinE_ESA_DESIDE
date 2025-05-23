@@ -83,6 +83,6 @@ In preparation.
 == REQ15 Sea Ice Charts
 
 .REQ15 Sea Ice Charts
-// image::../images/REQ15_Sea_Ice_Charts.png[REQ15 Sea Ice Charts]
-In preparation.
+image::../images/REQ15_Ice_Charts.png[REQ15 Sea Ice Charts]
+
 
