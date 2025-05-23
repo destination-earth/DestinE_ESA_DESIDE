@@ -11,8 +11,8 @@
 |Polar dashboard upgrade, including new features and new datasets.
 
 |Polar TEP Workspace
-|
-|
+|2.0.0.
+|15.4.2025
 |Polar TEP instance for DESIDE.
 
 |IcySea
@@ -51,23 +51,23 @@
 |Various CMEMS data sets available in the dashboard and Polar TEP.
 
 |Harshness Index
-|
-|
-|
+|0.0.2
+|9. 5. 2025
+|Updated processing is available in dashboard.
 
 |Structure Icing
-|
-|
-|
+|0.0.1
+|9. 5. 2025
+|New capability integrated including user interface.
 
 |POLARIS Risk
-|
-|
-|
+|0.0.3
+|14. 3. 2025
+|Updated user interface and data processing.
 
 |Image Interpretation
-|
-|
-|
+|0.0.3
+|14. 3. 2025
+|Updated user interface and data processing.
 
 |===
