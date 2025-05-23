@@ -1,6 +1,6 @@
 = Results of verification activities
 
-This section describe results of testing activities described in Software Verification and Validation Plan (SVVP).
+This section describes results of testing activities described in the Software Verification and Validation Plan (SVVP).
 
 == REQ01 DESIDE Dashboard
 
