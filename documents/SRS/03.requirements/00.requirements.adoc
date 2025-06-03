@@ -5,39 +5,39 @@ This chapter lists the software requirements with a requirements matrix and refe
 
 [cols="1,1,1,2,6,1"]
 |=== 
-| Doc | Reference | Section | Title | Short Description | Compliance
+| Doc | Reference | Use Case | Title | Short Description | Compliance
 
 |UCD
 |REQ01
-|3.2, 3.3, 3.4.
+|Climate Indicators, Baltic Shipping, Arctic Shipping
 |DESIDE dashboard
 |DESIDE shall provide a dashboard allowing users to interactively explore processed, integrated and combined dataset for the various covered regions and projections.
 |C
 
 |UCD
 |REQ02
-|3.2, 3.3, 3.4.
+|Climate Indicators, Baltic Shipping, Arctic Shipping
 |Polar TEP workspace
 |DESIDE shall provide access to a Polar TEP workspace allowing users to develop computer programs that use the DESIDE datasets.
 |C
 
 |UCD
 |REQ03
-|3.3, & 3.4.
+|Baltic Shipping, Arctic Shipping
 |IcySea
 |DESIDE shall provide access to the IcySea app allowing shipboard users to access sea ice information needed for tactical navigation.
 |C
 
 |UCD
 |REQ04
-|3.2.
+|Climate Indicators
 |Climate Indicators
 |Within the DESIDE dashboard, users shall be able to compare historical sea ice indicators with future projections. This will include data from the DestinE Digital Twin.
 |P, in development. The first climate model examples are shown in the polar dashboard. Data from the Digital Twin is being added.
 
 |UCD
 |REQ05
-|3.3.
+|Baltic Shipping
 |Baltic CMEMS Data
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to the following data served from CMEMS:
 * BALTICSEA_ANALYSISFORECAST_PHY_003_006
@@ -48,7 +48,7 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to the follo
 
 |UCD
 |REQ06
-|3.4.
+|Arctic Shipping
 |Arctic DESP Data 
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to the following data served from DESP:
 * GLOBAL_ANALYSISFORECAST_PHY_001_024
@@ -59,7 +59,7 @@ Note: The availability of this data on DESP is a precondition.
 
 |UCD
 |REQ07
-|3.4.
+|Arctic Shipping
 |Arctic CMEMS Data 
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to the following data served from CMEMS:
 * SEAICE_ARC_SEAICE_L4_NRT_OBSERVATIONS_011_007
@@ -67,56 +67,56 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to the follo
 
 |UCD
 |REQ08
-|3.3., 3.4.
+|Baltic Shipping, Arctic Shipping
 |Data Statistics
 a|The DESIDE dashboard shall allow calculation of data statistics for user selected regions of interest.
 |C
 
 |UCD
 |REQ09
-|3.4.
+|Arctic Shipping
 |Harshness Index
 a|The DESIDE dashboard shall provide the capability to calculate a Harshness Index based on a selection of environmental variables chosen by the user.
 |C
 
 |UCD
 |REQ10
-|3.4.
+|Arctic Shipping
 |Sentinel 1 Image Warping
 a|The DESIDE dashboard and IcySea shall provide the capability to warp Sentinel 1 images based on sea ice drift forecasts.
 |C
 
 |UCD
 |REQ11
-|3.4.
+|Arctic Shipping
 |Structure Icing
 a|The DESIDE dashboard shall provide the capability to the probability of encountering sturucture icing in a region based on historical data.
 |C
 
 |UCD
 |REQ12
-|3.4.
+|Arctic Shipping
 |POLARIS Risk
 a|The DESIDE dashboard and IcySea shall provide the capability to calculate the risk to a ship from sea ice given the ship's ice classification and current sea ice conditions.
 |C
 
 |UCD
 |REQ13
-|3.4.
+|Arctic Shipping
 |Sentinel 1 Image Interpretation
 a|The DESIDE dashboard shall provide interpretation of sea ice conditions from Sentinel 1 images using a Machine Learning trained algorithm.
 |C
 
 |UCD
 |REQ14
-|3.4.
+|Arctic Shipping
 |RCM Data
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to the RADARSAT Constellation Mission (RCM) SAR imagery
 |P, in development.
 
 |UCD
 |REQ15
-|3.4.
+|Arctic Shipping
 |Sea Ice Charts
 a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice Charts.
 |C
