@@ -50,6 +50,10 @@ include::02.overview/00.overview.adoc[]
 
 <<<
 
+include::04.activities/00.activities.adoc[]
+
+<<<
+
 include::03.results/00.results.adoc[]
 
 '''
