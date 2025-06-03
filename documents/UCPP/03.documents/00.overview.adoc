@@ -1,5 +1,27 @@
 = Use Case Promotion Package
 
+This section contains links to events where DESIDE has been promoted: +
+
+Canadian Polar Data Workshop V +
+May 27–31, 2024, Halifax, Canada +
+https://wpsites.ucalgary.ca/canadianpolardataworkshop/cpdw5/
+
+North American Ice Service 22nd Meeting +
+June 4, 2024, Ottawa, Canada +
+(No website available)
+
+3rd Destination Earth User eXchange +
+October 15 - 16, 2024, Darmstadt, Germany +
+https://destination-earth.eu/event/3rd-destination-earth-user-exchange/
+
+12th INTERNATIONAL WORKSHOP ON SEA ICE MODELLING, ASSIMILATION, OBSERVATIONS, PREDICTIONS AND VERIFICATION +
+5 - 7 November 2024 | ESA,ESRIN | Frascati, Italy +
+https://nikal.eventsair.com/iicwg---da---12-workshop-2024/
+
+ESA Digital Twin Earth Components: Open Science Meeting +
+3-5 February 2025 | ESRIN | Frascati, Italy +
+https://nikal.eventsair.com/esa-digital-twin/#introduction
+
 This section contains the documents in the Use Case Promotion Package
 
 :poster-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/DESIDE_Poster.pdf
@@ -18,6 +40,7 @@ This section contains material created for specific events
 
 :slides-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/IICWG%202024%20DESIDE.pdf
 link:{slides-attachment}[IICWG Workshop Slides]
+Presented at IICWG-XXV, September 2024 https://nsidc.org/iicwg/iicwg-meetings
 
 :slides-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/DESIDE_RR3.pdf
 link:{slides-attachment}[RR3 Slides]
