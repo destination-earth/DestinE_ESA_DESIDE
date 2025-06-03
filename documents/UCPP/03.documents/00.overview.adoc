@@ -2,13 +2,13 @@
 
 This section contains the documents in the Use Case Promotion Package
 
-:poster-attachment: ../images/DESIDE_Poster.pdf
+:poster-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/DESIDE_Poster.pdf
 link:{poster-attachment}[DESIDE Poster]
 
-:slides-attachment: ../images/DESIDE_Slides_2.pptx
+:slides-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/DESIDE_Slides_2.pptx
 link:{slides-attachment}[DESIDE Introductory Slides]
 
-:description-attachment: ../images/DestinE_Use_Case_DESIDE.docx
+:description-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/DestinE_Use_Case_DESIDE.docx
 link:{description-attachment}[DESIDE Description]
 
 :website-attachment: https://deside.polarview.org/
@@ -16,10 +16,10 @@ link:{website-attachment}[DESIDE Website]
 
 This section contains material created for specific events
 
-:slides-attachment: ../images/IICWG%202024%20DESIDE.pdf
+:slides-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/IICWG%202024%20DESIDE.pdf
 link:{slides-attachment}[IICWG Workshop Slides]
 
-:slides-attachment: ../images/DESIDE_RR3.pdf
+:slides-attachment: https://github.com/destination-earth/DestinE_ESA_DESIDE/blob/main/documents/UCPP/images/DESIDE_RR3.pdf
 link:{slides-attachment}[RR3 Slides]
 
 This section contains promotion material created by others
