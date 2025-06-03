@@ -58,7 +58,7 @@ Verification: Demonstration in preparation. +
 == REQ07 Arctic CMEMS Data
 
 Requirement: The available CMEMS data are accessible via the DESIDE dashboard for visualisation and in a Polar TEP workspace for processing. +
-Verification: Demonstration by selecting "Select indicator +" and then any data variable. The figure below shows "Sea Ice Concentration".  +
+Verification: Demonstration by selecting "Select indicator +" and then any data variable. The window on the top left shows the legend and allows selection of the date and the layer opacity. The figure below shows "Ice Concentration".  +
 
 .REQ07 Arctic CMEMS Data
 image::../images/REQ07_Arctic_CMEMS_Data.png[REQ07 Arctic CMEMS Data]
@@ -74,7 +74,7 @@ image::../images/REQ08_Data_Statistics.png[REQ08 Data Statistics]
 == REQ09 Harshness Index
 
 Requirement: The result of calculating a harshness index is accessible via the DESIDE dashboard for visualisation. +
-Verification: Demonstration by selecting "Select indicator +" and then and then "Harshness Capability" under the "Capabilities" submenu. Select a region of interest. Adjust the parameter values and weights using the slide bars in the bottom right window. Click on "Execute".  Previous runs are available for retrieval. +
+Verification: Demonstration by selecting "Select indicator +" and then and then "Harshness Capability" under the "Capabilities" submenu. Select a region of interest. Adjust the parameter values and weights using the slide bars in the bottom right window. Click on "Execute".  Previous runs are available for retrieval. The window on the top left shows the legend and allows selection of the the layer opacity. +
 
 .REQ09 Harshness Index
 image::../images/REQ09_Harshness_Index.png[REQ09 Harshness Index]
@@ -82,7 +82,7 @@ image::../images/REQ09_Harshness_Index.png[REQ09 Harshness Index]
 == REQ10 Image Warping
 
 Requirement: The result of warping a Sentinel 1 image based on sea ice drift forecasts is accessible via the DESIDE dashboard for visualisation. +
-Verification: Demonstration by selecting "Select indicator +" and then and then "Polar Warp Capability" under the "Capabilities" submenu. Select a region of interest. Select a date. Select the number of Ground Control Points (GCP) - a higher number provides better resolution but takes lonnger to run. Click on "Execute".  Previous runs are available for retrieval. +
+Verification: Demonstration by selecting "Select indicator +" and then and then "Polar Warp Capability" under the "Capabilities" submenu. Select a region of interest. Select a date. Select the number of Ground Control Points (GCP) - a higher number provides better resolution but takes lonnger to run. Click on "Execute".  Previous runs are available for retrieval. The window on the top left shows the legend and allows selection of the the layer opacity. +
 
 .REQ10 Image Warping
 image::../images/REQ10_Image_Warping.png[REQ10 Image Warping]
@@ -90,7 +90,7 @@ image::../images/REQ10_Image_Warping.png[REQ10 Image Warping]
 == REQ11 Structure Icing
 
 Requirement: The probability of structure icing is accessible via the DESIDE dashboard for visualisation. +
-Verification: Demonstration by selecting "Select indicator +" and then and then "Icing Predictor Index" under the "Capabilities" submenu. Select a region of interest. Select a date range in the bottom right window. Click on "Execute".  Previous runs are available for retrieval. +
+Verification: Demonstration by selecting "Select indicator +" and then and then "Icing Predictor Index" under the "Capabilities" submenu. Select a region of interest. Select a date range in the bottom right window. Click on "Execute".  Previous runs are available for retrieval. The window on the top left shows the legend and allows selection of the the layer opacity. +
 
 .REQ11 Structure Icing
 image::../images/REQ11_Structure_Icing.png[REQ11 Structure Icing]
@@ -106,7 +106,7 @@ image::../images/REQ12_POLARIS_Risk.png[REQ12 POLARIS Risk]
 == REQ13 Image Interpretation
 
 Requirement: ML interpretation of sea ice characteristics from Sentinel 1 images is accessible via the DESIDE dashboard for visualisation. +
-Verification: Demonstration by selecting "Select indicator +" and then and then "POLARIS Combined" under the "Capabilities" submenu. Results are shown as the "Sea Ice Detections" layer. +
+Verification: Demonstration by selecting "Select indicator +" and then and then "POLARIS Combined" under the "Capabilities" submenu. Results are shown as the "Sea Ice Detections" layer. The window on the top left shows the legend and allows selection of the the layer opacity. +
 
 .REQ13 Image Interpretation
 image::../images/REQ13_Image_Interpretation.png[REQ13 Image Interpretation]
