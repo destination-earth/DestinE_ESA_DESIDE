@@ -4,9 +4,9 @@
 
 
 
-[cols="1,3,3,3,2", options="header"]
+[cols="1,3,3,3,3,2", options="header"]
 |===
-| Component | RR1 – 29.04.2024 | RR2 – 19.09.2024 | RR3 – 16.05.2025 | Comment
+| Component | RR1 – 29.04.2024 | RR2 – 19.09.2024 | RR3 – 16.05.2025 | RR4 – June 2025| Comment
 
 | DESIDE Dashboard
 |  *Version:* 4.0.1 +
@@ -15,6 +15,8 @@
 *Feature:* Upgrade to eodash v5 version, new features
 | *Version:* 5.0.3 +
 *Feature:* Polar dashboard upgrade, including new features and new datasets.
+|*Version:* 5.0.4 +
+*Feature:* Polar dashboard update, including new datasets.
 | Polar dashboard interface to support DESIDE
 
 | Polar TEP Workspace
@@ -24,6 +26,7 @@
 *Feature:* Polar TEP for DESIDE
 | *Version:* 2.0.0 +
 *Feature:* Upgrade to EOxHub v2 version, visuals match DestinE
+|
 | Polar TEP instance for DESIDE.
 
 | IcySea
@@ -32,6 +35,7 @@
 *Feature:* Initial setup 
 |  *Version:* 0.0.2 +
 *Feature:* Data available in IcySea and new features
+|
 | Data available in IcySea
 
 | Ice Chart Repository
@@ -39,6 +43,8 @@
 | 
 | *Version:* 0.0.1 +
 *Feature:* IceCube initial work
+|*Version:* 0.0.2 +
+*Feature:* IceCube repository
 | Repository with ice charts
 
 | RCM Repository
@@ -47,6 +53,8 @@
 *Feature:* RCM sample data displayed
 | *Version:* 0.0.2 +
 *Feature:* Regular data updates
+|*Version:* 0.0.3 +
+*Feature:* Automated process integration
 | Radarsat Constellation Mission data repository.
 
 | CMEMS Data
@@ -55,6 +63,7 @@
 | *Version:* 0.0.2 +
 *Feature:* CMEMS data integrated
 | 
+|
 | Various CMEMS datasets available in the dashboard and PolarTEP.
 
 | POLARIS Risk
@@ -62,6 +71,7 @@
 | 
 | *Version:* 0.0.1 +
 *Feature:* Updated user interface and data processing.
+|
 | New layer functionality
 
 | Image Interpretation
@@ -69,6 +79,7 @@
 | 
 | *Version:* 0.0.1 +
 *Feature:* UI & processing update
+|
 | Internal use
 
 
@@ -78,6 +89,7 @@
 *Feature:* Code development
 | *Version:* 0.0.2 +
 *Feature:* Dashboard integration
+|
 | Updated processing is available in dashboard.
 
 | Structure Icing
@@ -85,6 +97,7 @@
 | 
 | *Version:* 0.0.1 +
 *Feature:* Dashboard integration
+|
 | New capability included
 
 | Climate Indicators
@@ -93,6 +106,7 @@
 *Feature:* Ensemble of climate indicators from various climate models, including DEDT
 | *Version:* 0.0.2 +
 *Feature:* Updated ensemble of climate indicators from various climate models, including DEDT
+|
 | New dashboard layer
 
 | Satellite Image Warping
@@ -101,12 +115,15 @@
 *Feature:* First version included in DESIDE
 | *Version:* 0.0.3 +
 *Feature:* Drift-based warping, GCPs supported
+|
 | Algorithm to morph SAR images based on ice drift models to interporlate between image acquisitions.
 
 | DEDL Data
 | 
 | 
 | 
+|*Version:* 0.0.1 +
+*Feature:* DEDL data included in DESIDE
 | No version yet
 |===
 
