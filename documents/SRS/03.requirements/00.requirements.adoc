@@ -126,4 +126,4 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice C
 
 
 .DESIDE diagram
-image::../images/DESIDE_2.png[DESIDE Diagram]
+image::../images/DESIDE_3.png[DESIDE Diagram]
