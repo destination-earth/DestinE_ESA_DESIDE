@@ -5,7 +5,7 @@ This chapter lists the software requirements with a requirements matrix and refe
 
 [cols="1,1,1,2,6,1"]
 |=== 
-| Doc | Reference | Use Case | Title | Short Description | Compliance
+| Doc | Reference | Use Case* | Title | Short Description | Compliance
 
 |UCD
 |REQ01
@@ -122,8 +122,20 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice C
 |C
 |===
 
-== DESIDE project diagram
+*Note: The representative users for each use case are as follows:
+[cols="1,1"]
+|=== 
+| Use Case | User 
 
+| Climate Indicators | Arctic Marine Assessment Program (AMAP), Norwegian Directorate for Environment
 
-.DESIDE diagram
+| Baltic Shipping | Finnish Transport Infrastructure Agency
+
+| Arctic Shipping | Alfred Wagener Institute, Ponant
+
+|===
+
+== DESIDE Data Diagram
+
+.DESIDE Data Diagram
 image::../images/DESIDE_3.png[DESIDE Diagram]
