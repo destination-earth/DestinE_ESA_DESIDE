@@ -2,6 +2,7 @@
 = Software Requirements Specification
 
 This chapter lists the software requirements with a requirements matrix and references to documents.
+Note: DestinE does not currently allow commercial services such as Polar TEP and IcySea. Those services will be added when that policy changes.
 
 [cols="1,1,1,2,6,1"]
 |=== 
@@ -136,6 +137,8 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice C
 |===
 
 == DESIDE Data Diagram
+
+Note: DestinE does not currently allow commercial services such as Polar TEP and IcySea. Those services will be added when that policy changes.
 
 .DESIDE Data Diagram
 image::../images/DESIDE_4.png[DESIDE Diagram]
