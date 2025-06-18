@@ -138,4 +138,4 @@ a|The DESIDE dashboard and Polar TEP workspace shall provide access to Sea Ice C
 == DESIDE Data Diagram
 
 .DESIDE Data Diagram
-image::../images/DESIDE_3.png[DESIDE Diagram]
+image::../images/DESIDE_4.png[DESIDE Diagram]
