@@ -17,7 +17,9 @@ Benefits to polar operations and the rest of society will include increased safe
 
 
 ## Related code repositories
-      
+
+Note that these code repositories are rather linked than copied in order to maintain their version history and allow for future updates.
+
 - DESIDE Polar Dashboard: 
   - DESIDE data catalog: https://github.com/gtif-cerulean/deside-catalog
   - DESIDE eodash client: https://github.com/gtif-cerulean/deside-client       
