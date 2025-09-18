@@ -24,5 +24,5 @@ Note that these code repositories are rather linked than copied in order to main
   - DESIDE data catalog: https://github.com/gtif-cerulean/deside-catalog
   - DESIDE eodash client: https://github.com/gtif-cerulean/deside-client       
 - Climate Indicator chart definition: https://github.com/gtif-cerulean/assets/blob/main/chartdefs/climate_indicator.json
-- Polar Dashboard POLARIS results including Ice Charst: https://github.com/gtif-cerulean/deside-catalog/blob/main/collections/polaris.json
+- Polar Dashboard POLARIS results including Ice Charts: https://github.com/gtif-cerulean/deside-catalog/blob/main/collections/polaris.json
 - Predicted Ice IMAges module producing S1 moprhed images : https://github.com/DriftNoise/priima    
